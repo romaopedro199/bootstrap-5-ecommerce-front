@@ -1,0 +1,13 @@
+@media (max-width: 991px) {
+  .navbar {
+    background-color: var(--color-light) !important;
+    border-bottom: 2px solid var(--color-grey);
+  }
+}
+
+@media (max-width: 400px) {
+  .side-bar .menu {
+    min-width: unset;
+    width: 100%;
+  }
+}
